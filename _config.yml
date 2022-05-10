@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Aperture Template
+title: Danilo Baredi
 url: "https://cosmic-hippopotamus.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -14,7 +14,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Aperture Template
+  name: Danilo Baredi
   links:
     - https://github.com/CloudCannon/aperture-jekyll-template
 
