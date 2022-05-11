@@ -2,16 +2,16 @@
 # Site
 
 title: Danilo Baredi
-url: "https://cosmic-hippopotamus.cloudvent.net"
+url: "https://www.danilobaredi.ch"
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Photography portfolio template for Jekyll.
+description: Portfolio
 author:
   name:
-  email:
+  email: danilo.baredi@gmx.ch
   twitter: # twitter username without the @ symbol
 social:
   name: Danilo Baredi
